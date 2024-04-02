@@ -1,0 +1,12 @@
+cd - change directory
+ls - display list content
+touch- create file
+pwd - display current directory
+mkdir - make directory
+rm - removes file
+-------
+Repository - its a storage or a location of the folder
+Local Repository - storage from your device
+Remote Repository - version of repository that is stored on a server or cloud based platform
+
+git init - initialize a folder
